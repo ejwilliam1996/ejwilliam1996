@@ -1,6 +1,6 @@
 - 👋 Hi, I’m William Ej
 - 👀 I love engineering, technology and football!
-- 🌱 I’m currently learning about machine learning and data science!
+- 🌱 I’m a Fresh Graduate Bachelor of Engineering focused in Computer Engineering, I'm currently learning about machine learning and data science!
 - 💞️ I’m looking for opportunity to work in data and tech industry!
 
 
